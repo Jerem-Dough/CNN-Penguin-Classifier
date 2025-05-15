@@ -39,8 +39,7 @@ This repository contains a Python-based image classification model that uses a c
 
 To run the project locally:
 
-1. Clone the repository:  
-   `git clone https://github.com/Jerem-Dough/CNN-Penguin-Classifier.git`
+1. Clone the repository: `git clone https://github.com/Jerem-Dough/CNN-Penguin-Classifier.git`
 2. Create and activate Python environment `python -m venv`, then `pip install -r requirements.txt`
 3. Open `penguin_classifier.ipynb` in Jupyter Notebook
 4. Ensure your dataset is placed in `../data/penguin/` and `../data/not_penguin/`
