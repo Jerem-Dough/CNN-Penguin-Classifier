@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+ Not Penguin       0.71      0.84      0.77       434
+     Penguin       0.80      0.67      0.73       434
+
+    accuracy                           0.75       868
+   macro avg       0.76      0.75      0.75       868
+weighted avg       0.76      0.75      0.75       868
